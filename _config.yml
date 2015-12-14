@@ -6,7 +6,7 @@
 title: Fan's Bolg
 subtitle: Tech Blog of Fan
 description: 张凡的博客
-author: Zhang Fan
+author: Fan ZHang
 language: zh-Hans
 timezone:
 
@@ -18,7 +18,7 @@ swiftype_key: NjGxM5nbF23tBoBeztyR
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://sybmoji.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
