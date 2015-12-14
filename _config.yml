@@ -3,12 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fan's Bolg
+title: Fan's Blog
 subtitle: Tech Blog of Fan
-description: 张凡的博客
+description: 张凡的个人博客
 author: Fan ZHang
 language: zh-Hans
 timezone:
+avatar: http://7xp6tx.com1.z0.glb.clouddn.com/avatar.png
+since: 2015
+
+#Social Links
+social:
+ github: https://github.com/sybmoji
+ weibo: https://weibo.com/fanzhg
 
 # Duoshuo
 duoshuo_shortname: perblog
