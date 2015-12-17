@@ -11,17 +11,29 @@ language: zh-Hans
 timezone:
 avatar: http://7xp6tx.com1.z0.glb.clouddn.com/avatar.png
 since: 2015
+plugins: 
+- hexo-generator-sitemap
 
 #Social Links
 social:
- github: https://github.com/sybmoji
- weibo: https://weibo.com/fanzhg
+ GitHub: https://github.com/sybmoji
+ Weibo: https://weibo.com/fanzhg
+# zhihu: https://www.zhihu.com/people/fan-zhang-31-65
+# douban: https://www.douban.com/people/139061618
 
 # Duoshuo
 duoshuo_shortname: perblog
+duoshuo_share: true
+#duoshuo_hotartical: true
 
 #Swiftype Search Key
 swiftype_key: NjGxM5nbF23tBoBeztyR
+
+#Creative Commons 4.0 International License.
+#http://creativecommons.org/
+#Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
+creative_commons: by-nc-sa
+#creative_commons:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

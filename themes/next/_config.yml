@@ -3,7 +3,8 @@
 # ---------------------------------------------------------------
 
 # Place your favicon.ico to /source directory.
-favicon: /favicon.ico
+#favicon: /favicon.ico
+favicon: /favicon.png
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo, NexT"
@@ -16,6 +17,8 @@ rss:
 # Specify the date when the site was setup
 #since: 2015
 
+#Icon Font
+icon_font: default
 
 
 
@@ -156,7 +159,7 @@ use_font_lato: true
 # ---------------------------------------------------------------
 
 # MathJax Support
-mathjax:
+mathjax: true
 
 
 # Swiftype Search API Key
