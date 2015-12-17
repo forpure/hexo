@@ -4,7 +4,7 @@
 
 # Place your favicon.ico to /source directory.
 #favicon: /favicon.ico
-favicon: /favicon.png
+favicon: /images/favicon.png
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo, NexT"

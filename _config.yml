@@ -9,7 +9,7 @@ description: 张凡的个人博客
 author: Fan ZHang
 language: zh-Hans
 timezone:
-avatar: http://7xp6tx.com1.z0.glb.clouddn.com/avatar.png
+avatar: /images/avatar.png
 since: 2015
 plugins: 
 - hexo-generator-sitemap
@@ -23,7 +23,7 @@ social:
 
 # Duoshuo
 duoshuo_shortname: perblog
-duoshuo_share: true
+#duoshuo_share: true
 #duoshuo_hotartical: true
 
 #Swiftype Search Key
