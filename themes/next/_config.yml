@@ -30,7 +30,7 @@ icon_font: default
 # Remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  #categories: /categories
+  categories: /categories
   archives: /archives
   tags: /tags
   about: /about
@@ -47,7 +47,7 @@ menu_icons:
   # Icon Mapping.
   home: home
   about: user
-  categories: th
+  #categories: th
   tags: tags
   archives: archive
   commonweal: heartbeat

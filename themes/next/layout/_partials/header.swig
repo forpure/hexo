@@ -32,6 +32,7 @@
   {% if theme.menu %}
     <ul id="menu" class="menu {{ hasSearch and 'menu-left' }}">
       {% for name, path in theme.menu %}
+        {% if name != "categories" %}
         {% set itemName = name.toLowerCase() %}
         <li class="menu-item menu-item-{{ itemName }}">
           <a href="{{ url_for(path) }}" rel="section">
@@ -41,6 +42,7 @@
             {{ __('menu.' + itemName) }}
           </a>
         </li>
+        {% endif %}
       {% endfor %}
 
       {# Search icon for default scheme #}
