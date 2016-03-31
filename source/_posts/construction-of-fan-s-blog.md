@@ -3,7 +3,7 @@ date: 2015-12-20 05:22:56
 categories: [Hexo]
 tags: [Hexo, Github]
 ---
-该博客是通过Hexo搭建，部署在Github Pages上，并托管在Github。之前没接触过版本管理，趁这次机会一起学习了Git。
+该博客是通过Hexo搭建，部署在Github Pages，并托管在Github。之前没接触过版本管理，趁这次机会一起学习了Git。
 
 ## [Hexo](https://hexo.io/)
 
